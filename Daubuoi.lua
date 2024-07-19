@@ -24,7 +24,7 @@ _G.SettingsUI = {
 }
 -- [ Ui Setting Text ]
 
-_G.LogoHub = "rbxassetid://18564707114"
+_G.LogoHub = "rbxassetid://18564707068"
 _G.LoadText = "Loading Interface . . ."
 _G.LoadText2 = "Hello"
 _G.LoadText3 = "Welcome to ????? Script | Premium Edition"
